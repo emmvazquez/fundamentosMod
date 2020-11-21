@@ -19,6 +19,9 @@ Algoritmo sin_titulo
 	//  || indicar un OR lógico
 	//   ! =  diferente
 	//  == igual 
+	// >= mayor o igual que
+	// <= menor o igual que 
+	
 	
 	
 	// comentario doble diagonal
